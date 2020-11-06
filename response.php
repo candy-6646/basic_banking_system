@@ -17,7 +17,7 @@ $sql2 = "UPDATE customers SET current_balance = current_balance -'$_POST[amount]
    		   echo "Updation failed";
    		} 
 		 else {		 
-   		   	header(location:"customer.php ");
+   		   	header("location:customer.php ");
    			}
 
 
