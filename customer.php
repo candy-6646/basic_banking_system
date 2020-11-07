@@ -74,7 +74,7 @@
 		    <tr>
 			    <th>Name</th>
 			    <th>Email</th>
-			    <th>balance</th>
+			    <th>Balance</th>
 		    </tr> 
 <?php
    $host        = "host = ec2-52-73-199-211.compute-1.amazonaws.com";
@@ -113,8 +113,8 @@ pg_close($db);
     <!-- Call to Action -->
 
     <section id="cta" class="coloured-section">
-      <h3 class="main-text">Basic Banking system project of Internship,for THE SPARKS FOUNDATION by Kundan Kumar.</h3>
-      <a href="customer.html"><button type="button" class="btn btn-dark btn-lg download-button"></i> Get started</button></a>
+      <h3 class="main-text">Task 1: Basic Banking System.Design and Devloped by Kundan Kumar under the Internship of The Sparks Foundation.</h3>
+      <a href="https://candy-6646.github.io/Personal-website/"><button type="button" class="btn btn-dark btn-lg download-button"><i class="fa fa-globe" aria-hidden="true"></i> Developer</button></a>
     </section>
 
 
